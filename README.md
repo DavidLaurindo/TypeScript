@@ -1,8 +1,12 @@
 # TypeScript
 
 ### Instalação:
-**npm i -g typescript**
+**npm i -g typescript** *(global)*
 ***
+### Rodando com code-runner:
+**npm i -g ts-node**
+***
+### Comandos:
 **tsc --init** Iniciar na pasta.<br>
 **tsc -v** Sobre a versão.<br>
  **tsc nome-do-arquivo.ts** Compila o arquivo e gera um .JS compilado(terminal).<br>
