@@ -1,6 +1,6 @@
 # TypeScript
 
-### Instalação
+### Instalação:
 **npm i -g typescript**
 ***
 **tsc --init** Iniciar na pasta.<br>
