@@ -19,3 +19,8 @@
 **npm i -s live-server** - Criando dependência no servidor *live-server*(**-s** para salvar a referência dessa dependência dentro do package.json do projeto.)<br>
 Dentro do *package.json/script:* adicione **"start": "live-server"**<br>
 Agora use **npm start** - irá iniciar o browser da sua aplicação.
+***
+
+
+### Dicas:
+O compilador TypeScript sempre irá compilar, mesmo com erro no arquivo ts(Isso pode ser configurado para compilar somente quando não conter nenhum erro).<br>
