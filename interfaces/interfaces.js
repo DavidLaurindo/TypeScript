@@ -12,3 +12,5 @@ var pessoa = {
 saudarComOla(pessoa);
 mudarNome(pessoa);
 saudarComOla(pessoa);
+//saudarComOla({nome: 'Jonas', idade: 27})//erro porque o atributo idade não está na interface Humano.
+saudarComOla({ nome: 'Cleitinho', idade: 27, qualquerNome: true });
